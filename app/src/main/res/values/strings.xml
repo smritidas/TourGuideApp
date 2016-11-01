@@ -1,0 +1,16 @@
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">TourGuideApp</string>
+
+    <!-- Category name for nature [CHAR LIMIT=20] -->
+    <string name="category_nature">Nature</string>
+
+    <!-- Category name for shopping [CHAR LIMIT=20] -->
+    <string name="category_shopping">Shopping</string>
+
+    <!-- Category name for restaurants [CHAR LIMIT=20] -->
+    <string name="category_restaurants">Restaurants</string>
+
+    <!-- Category name for historic sites [CHAR LIMIT=20] -->
+    <string name="category_historic">Historic Sites</string>
+</resources>
