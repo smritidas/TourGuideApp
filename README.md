@@ -1,3 +1,3 @@
 # TourGuideApp
 
-App built following tutorial from Android Udacity Basics
+App built following a tutorial from Android Udacity Basics. 
